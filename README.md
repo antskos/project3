@@ -17,5 +17,5 @@
 
 <p>
   Ссылка на соревнование Kaggle:
-  <a href="https://www.kaggle.com/competitions/sf-booking">to kaggle competition/a>
+  <a href="https://www.kaggle.com/competitions/sf-booking">to kaggle competition</a>
 </p>
